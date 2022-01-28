@@ -17,7 +17,7 @@ else:
 # 2
 # guessing game script
 secret_number = 23
-guess_count = 0 # it is best practice to name variables clearly for code review, working with colleagues
+guess_count = 0 
 guess_limit = 3
 while guess_count < guess_limit:
     guess = int(input("guess: "))
