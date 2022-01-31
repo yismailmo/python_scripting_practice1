@@ -1,5 +1,6 @@
 
 Lesson learned:
-# I can have a space between the 2 strings concatenated
-#so I can add a space before the clossing double quote
+space between two strings can be concatenated by 
+adding clicking on space key before clossing double quotes
+
 
