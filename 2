@@ -1,0 +1,18 @@
+# Inheritance
+class Mammal:
+    def walk(self):
+        print("walk")
+    
+class Dog(Mammal):
+    def bark(self):
+        print("bark")
+        
+class Cat(Mammal):
+    def annoying(self):
+        print("annoy")
+
+dog1 = Dog()
+dog1.walk()
+dog1.bark()
+cat2 = Cat()
+cat2.annoying()
